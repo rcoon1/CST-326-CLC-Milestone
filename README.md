@@ -10,6 +10,11 @@
   <div class="Assignment-members-and-details" style="background-color:Tomato;">
     <h1>Doompause Emporium - Ecommerce WebApp with Strip Payment Processing</h1>
 
+
+<h2>Version Log</h2>
+
+<p>Version 1.2 - Sept. 30, 2023 </p>
+
 <h2>Final Design Report:</h2>
 
 <p>This application was written as an assignment from Grand Canyon University as a Student Collaboration<strong>&nbsp;CST-326 10/22/2023</strong>. This document will address is the&nbsp;development of a web application for online sales. The company, with its rich history in the trade of medieval weapons, is seeking to expand its reach to customers globally through an online platform. Background Information:&nbsp;The company has been in business for hundreds of years, offering medieval weapons for both defensive and offensive combat. Over the years, it has built a reputation for quality and authenticity. However, with changing times and the rise of digital commerce, the company has found it increasingly difficult to reach customers.The proposed web application will allow users to view items, read weapon descriptions, and see the prices of the items. It will also offer an online shopping cart where customers can add, remove, and edit the quantity of products. This digital transformation aims to make shopping more convenient for customers and expand the company&rsquo;s customer base.By addressing these needs, the company hopes to continue its tradition of excellence while adapting to the modern marketplace.</p>
@@ -72,7 +77,7 @@
 	<tbody>
 		<tr>
 			<td style="width:106px">
-			<p>&nbsp;<img alt="interactive connection" src="https://cdn.freebiesupply.com/logos/large/2x/angular-icon-1-logo-png-transparent.png" style="float:left; width:35px" />&nbsp;Angular</p>
+			<p>&nbsp;<img alt="interactive connection" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/1024px-React-icon.svg.png" style="float:left; width:35px" />&nbsp;React</p>
 			</td>
 			<td style="width:99px">
 			<p><img alt="html cleaner" src="https://getbootstrap.com/docs/5.2/assets/brand/bootstrap-logo-shadow.png" style="float:left; width:45px" />Boostrap</p>
